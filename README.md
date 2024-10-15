@@ -2,4 +2,4 @@
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/RafatharUserbotV4/Rafaxamalia/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/mohamadrojib278/Theme/main/install.sh)
