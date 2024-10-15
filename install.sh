@@ -57,7 +57,7 @@ check_token() {
   echo -e "${YELLOW}MASUKAN TOKEN DIATAS :${NC}"
   read -r USER_TOKEN
 
-  if [ "$USER_TOKEN" = "jibzz" ]; then
+  if [ "$USER_TOKEN" = "jibszz" ]; then
     echo -e "${GREEN}AKSES BERHASIL${NC}}"
   else
     echo -e "${GREEN}Free${NC}"
