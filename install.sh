@@ -18,7 +18,7 @@ display_welcome() {
   echo -e ""
   echo -e "script ini di buat untuk mempermudah penginstalasian thema pterodactyle,"
   echo -e "dilarang keras untuk di jual belikan."
-  echo -e "token : jibszz"
+  echo -e "Biji Bapak Kau Pecah"
   sleep 4
   clear
 }
@@ -51,10 +51,10 @@ install_jq() {
 check_token() {
   echo -e "                                                       "
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
-  echo -e "${BLUE}[+]               LICENSY CODE                      [+]${NC}"
+  echo -e "${BLUE}[+]               Code : jibszz                     [+]${NC}"
   echo -e "${BLUE}[+] =============================================== [+]${NC}"
   echo -e "                                                       "
-  echo -e "${YELLOW}MASUKAN AKSES TOKEN :${NC}"
+  echo -e "${YELLOW}MASUKAN TOKEN DIATAS :${NC}"
   read -r USER_TOKEN
 
   if [ "$USER_TOKEN" = "jibzz" ]; then
